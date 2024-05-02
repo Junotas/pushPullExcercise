@@ -9,7 +9,7 @@ public class Main {
         // Find the sum of all the multiples of or below 1000
 
         int num = 1000;
-
+//change for new branch test
         int sum = 0;
         for (int i = 0; i < num; i++) {
             if (i % 3 == 0|| i % 5 == 0) {
